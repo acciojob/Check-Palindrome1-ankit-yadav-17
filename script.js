@@ -1,6 +1,6 @@
 // complete the given function
 let isPalindrome = true;
-let str = str.toLowerCase();
+
 function palindrome(str){
 	let i=0, j=str.length-1;
 	
